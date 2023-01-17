@@ -16,6 +16,8 @@
         <module>jsp-demo-exception-handling</module>
         <module>jsp-demo-directives</module>
         <module>jsp-demo-action-elements</module>
+        <module>jsp-demo-expression-language</module>
+        <module>jsp-demo-jstl</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->
@@ -25,7 +27,6 @@
             <version>2.3.3</version>
             <scope>provided</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
@@ -33,6 +34,11 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
     </dependencies>
     <properties>
         <maven.compiler.source>18</maven.compiler.source>

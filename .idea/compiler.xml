@@ -11,10 +11,14 @@
         <module name="jsp-demo-implicit-objects" />
         <module name="jsp-demo-exception-handling" />
         <module name="jsp-demo-expression" />
+        <module name="jsp-demo-expression-language" />
         <module name="jsp-demo-scriptlet" />
         <module name="jsp-demo-action-elements" />
         <module name="jsp-demo-directives" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jsp-demo-jstl" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>

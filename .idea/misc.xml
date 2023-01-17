@@ -7,7 +7,9 @@
     <file type="web" url="file://$PROJECT_DIR$/jsp-demo-directives" />
     <file type="web" url="file://$PROJECT_DIR$/jsp-demo-exception-handling" />
     <file type="web" url="file://$PROJECT_DIR$/jsp-demo-expression" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp-demo-expression-language" />
     <file type="web" url="file://$PROJECT_DIR$/jsp-demo-implicit-objects" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp-demo-jstl" />
     <file type="web" url="file://$PROJECT_DIR$/jsp-demo-scriptlet" />
   </component>
   <component name="MavenProjectsManager">
@@ -16,6 +18,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/jsp-demo-expression/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jsp-demo-jstl/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">

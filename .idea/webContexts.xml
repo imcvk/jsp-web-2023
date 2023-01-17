@@ -4,6 +4,7 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/jsp-demo-directives/src/main/webapp/taglibdemo.jsp" value="file://$PROJECT_DIR$/jsp-demo-directives/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/jsp-demo-jstl-core-tags/src/main/webapp/core/coretags.jsp" value="file://$PROJECT_DIR$/jsp-demo-jstl-core-tags/src/main/webapp/core" />
       </map>
     </option>
   </component>
